@@ -1,0 +1,6 @@
+entities/Person.class
+rest/GenericResource.class
+rest/ApplicationConfig.class
+cors/CorsResponseFilter.class
+cors/CorsRequestFilter.class
+.netbeans_automatic_build
